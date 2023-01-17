@@ -155,6 +155,16 @@ section {
   content: "/";
 }
 
+
+.whatsapp-link{
+  color: #fff;
+}
+.btn-success{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 1rem;
+}
 /*--------------------------------------------------------------
 # Scroll top button
 --------------------------------------------------------------*/
