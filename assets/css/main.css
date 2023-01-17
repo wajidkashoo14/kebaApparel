@@ -155,16 +155,22 @@ section {
   content: "/";
 }
 
-
+.bi-whatsapp{
+  margin: 0 8px;
+  font-size: 2rem;
+}
 .whatsapp-link{
   color: #fff;
+  padding: 0;
+  margin: 0 6px;
 }
 .btn-success{
-  display: flex;
-  justify-content: center;
-  align-items: center;
   margin-left: 1rem;
+  background-color: #25D366;
+  color: #fff;
 }
+
+
 /*--------------------------------------------------------------
 # Scroll top button
 --------------------------------------------------------------*/
